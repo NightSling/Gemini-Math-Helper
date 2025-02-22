@@ -18,6 +18,14 @@ To install the necessary dependencies, run:
 pip install -r requirements.txt
 ```
 
+## Setup Environment Variables
+
+Copy the example environment variables file to a new `.env` file:
+
+```bash
+cp .env.example .env
+```
+
 ## Usage
 
 1. **Run the Application**:
